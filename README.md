@@ -1,8 +1,6 @@
-#  Suleman Butt
+                                                                   #  Suleman Butt
 
-Backend Developer | MERN Stack | Desktop Applications
-
-🌐 Portfolio • 📫 Email
+                                                   Backend Developer | MERN Stack | Desktop Applications
 
 ---
 
