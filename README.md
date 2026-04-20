@@ -3,7 +3,7 @@
 <h3 align="center">Backend Engineer | MERN Stack | Desktop Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Backend+Developer;MERN+Stack+Engineer;Learning+AI+%2F+LLMs;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Backend+Engineer;MERN+Stack+Developer;Learning+AI+%2F+LLMs;Open+Source+Contributor" />
 </p>
 
 ---
@@ -71,7 +71,15 @@
 
 ---
 
-##  Contribution Dashboard
+##  Contribution Dashboard 
+
+
+<p align="center">
+  <a href="https://invent.kde.org/sulemanbadar">
+    <img src="https://img.shields.io/badge/GitLab-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+</p>
+
 
 <div align="center">
 
@@ -120,3 +128,4 @@ Open to:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
