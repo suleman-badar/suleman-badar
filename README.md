@@ -1,38 +1,14 @@
 <h1 align="center">Hi, I'm Suleman Badar</h1>
 
-<h3 align="center">Backend Engineer | MERN Stack | Desktop Applications</h3>
+<h3 align="center"> Backend + AI Engineer | MERN Stack </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Backend+Engineer;MERN+Stack+Developer;Learning+AI+%2F+LLMs;Open+Source+Contributor" />
-</p>
-
----
-
-##  About Me
-
--  Exploring **AI, LLMs & modern backend architectures**
--  Contributing to **KDE (Desktop Applications)**
--  Building **full-stack MERN applications**
--  Creating clean UI with **JavaScript & React**
--  Passionate about **scalable systems & real-world projects**
-
----
-
-##  Competitive Programming
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sulemanbadar?theme=dark&font=baloo&ext=contest" />
-</p>
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=suleman.badar.butt&theme=dark" />
+ <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Backend+%2B+AI+Engineer;MERN+Stack+Developer;Open+Source+Contributor" />
 </p>
 
 ---
 
 ##  Tech Stack
-
-##  Skills
 
 ![C](https://img.shields.io/badge/C-1F1F1F?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C%2B%2B-1F1F1F?style=for-the-badge&logo=cplusplus&logoColor=00599C)
@@ -76,8 +52,19 @@
 
 ---
 
-##  Contribution Dashboard 
+##  Competitive Programming
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sulemanbadar?theme=dark&font=baloo&ext=contest" />
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=suleman.badar.butt&theme=dark" />
+</p>
+
+---
+
+##  Contribution Dashboard 
 
 <p align="center">
   <a href="https://invent.kde.org/sulemanbadar">
@@ -118,7 +105,7 @@
 Open to:
 -  Web Development Projects  
 -  E-Commerce Apps  
--  Desktop Applications  
+-  LLM Integration  
 -  Open Source Contributions  
 
 ---
